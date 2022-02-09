@@ -42,4 +42,4 @@ I mostly work in **private repositories**.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevY007)
 #
 
-:mailbox_with_mail: **Discord: KevY#0382**
+:mailbox_with_mail: **Discord: rehab#0382**
