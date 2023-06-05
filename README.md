@@ -1,18 +1,14 @@
-# :thumbsup: KevY's Github Profile
+# :thumbsup: rehab's Github Profile
 
 <h2>
-:handshake: Known as/other names & formerly:
+:handshake: M. Rehaab
 </h2>
-
-- KevY007
-- KevYBeasT
-- Rehab
-- 0x32789
 
 # 
 
 :construction_worker:
-***I work with multiple languages, proficiently in C#, C++, JavaScript, Pawn/Amx, CLEO/Sanny Builder, and some basic of (.NET, SQL, Python, Lua and Java).***
+***I work with multiple languages, proficiently in C#, C++, JavaScript, Pawn/Amx, CLEO/Sanny Builder, and some basic of (.NET, SQL, Python, Lua and Java).
+Formerly a game hacker/dev, sometimes trying to reverse engineer programs online etc. And probably busy with school/career if you're seeing this.***
 
 # 
 
@@ -37,7 +33,7 @@ I've worked on many other platforms as well.
 :floppy_disk:
 I mostly work in **private repositories**.
 
-![KevY's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevY007&count_private=true&show_icons=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevY007&count_private=true&show_icons=true&theme=synthwave)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevY007)
 #
