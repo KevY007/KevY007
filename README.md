@@ -1,5 +1,3 @@
-# :thumbsup: rehab's Github Profile
-
 <h2>
 :handshake: M. Rehaab
 </h2>
@@ -18,13 +16,13 @@ I have a really inconsistent work of flow, I work with multiple languages at the
 #
 
 :technologist: 
-**Platforms I' publicly worked on:** *(Mostly game scripting)*
+**Platforms I've actively worked on in the past:** *(Mostly game scripting)*
 
-- [SA:MP](https://sa-mp.com/) Server scripting, Pwn'ing multiplayer servers (memory hacking and very very little reverse engineering)
+- [SA:MP](https://sa-mp.com/) Server scripting, Pwn'ing multiplayer servers, hacking into network interfaces and trying to understand the netcode
 - [IV:MP](http://www.iv-mp.eu/) Server scripting
-- [RAGE:MP](https://rage.mp/) Server scripting (developed LSCC:V, now Race 'n' Chase on GTAV)
-- [Minecraft/Spigot](https://spigotmc.org/) Plugin Development (no longer working)
-- [Minecraft/ComputerCraft](https://computercraft.info/) Making programs in Lua (no longer working)
+- [RAGE:MP](https://rage.mp/) Server scripting (developed LSCC:V, now Race 'n' Chase on GTAV, active server)
+- [Minecraft/Spigot](https://spigotmc.org/) Plugin Development
+- [Minecraft/ComputerCraft](https://computercraft.info/) Making programs in Lua for self, modded minecraft
 
 I've worked on many other platforms as well.
 
